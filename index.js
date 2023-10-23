@@ -8,5 +8,3 @@ app.use(express.json())
 app.listen(5000, () => {
   console.log('running')
 })
-
-let another = 3
